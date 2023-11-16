@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_5_Sắp xếp ghi chú theo thứ tự alphabe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>805f8d53-e6e9-44c2-91a5-8dea03068b2a</testCaseGuid>
+</TestCaseEntity>
